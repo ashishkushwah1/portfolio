@@ -27,9 +27,9 @@ const siteProps = {
   name: "Ashish Kushwaha",
   title: "Front-End Developer",
   email: "ashishkushwah179@gmail.com",
-  gitHub: "",
-  instagram: "ashishkushwah1",
-  linkedIn: "i_ashishkushwaha",
+  gitHub: "ashishkushwah1",
+  instagram: "i_ashishkushwaha",
+  linkedIn: "ashish-kushwah-96998b205",
   medium: "",
 };
 
