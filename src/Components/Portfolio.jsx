@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sorting Visualizer",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Built an application using Reactjs to visualize how different sorting algorithms work to sort an array",
+    url: "https://sortvisualizer12.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Pokedex",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Built an application in which user can see a list of pokemons and search for a particular pokemon with an intertive UI",
+    url: "https://ashish-pokedex.netlify.app/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://ashishkushwah1.github.io/resume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Youtube Clone",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Implemented front end part of YouTube using Reactjs and Youtube API to stream videos like original YouTube",
+    url: "https://ashish-youtube-clone.netlify.app/",
   },
 ];
 
